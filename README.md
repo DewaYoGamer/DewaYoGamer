@@ -1,6 +1,6 @@
 <h1 align="center">Greeting 👋</h1>
 
-<p align="center">You should be interested in me cuz you opened my profile, don't you? So I'll introduce myself.</p>
+<p align="center">You should be interested in me baacause you opened my profile, don't you? So I'll introduce myself.</p>
 
 <h1 align="center">Who am I? 🤨</h1>
 <p>My name is <b>Dewa Yoga</b>, You can call me Dewa or Yoga. Im from Bali, Indonesia.</p>
