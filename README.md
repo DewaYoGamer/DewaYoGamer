@@ -1,5 +1,3 @@
-<img src="atri.gif">
-
 <h1 align="center">Greeting 👋</h1>
 
 <p align="center">You should be interested in me baacause you opened my profile, don't you? So I'll introduce myself.</p>
@@ -36,6 +34,8 @@
   <a href="https://ubuntu.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" height="32px"></a>
   <a href="https://www.debian.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="Debian" height="32px"></a>
 </div>
+
+<img src="atri.gif">
 
 
 
