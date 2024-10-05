@@ -34,7 +34,7 @@
   <a href="https://ubuntu.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" height="32px"></a>
   <a href="https://www.debian.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="Debian" height="32px"></a>
 </div>
-<h2>Atri Nguli</h2>
+<h2>Atri Nguli ⛏️</h2>
 <img src="atri.gif" height="300">
 
 
