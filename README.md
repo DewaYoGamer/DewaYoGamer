@@ -35,7 +35,7 @@
   <a href="https://www.debian.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="Debian" height="32px"></a>
 </div>
 <h2>Atri Nguli</h2>
-<img src="atri.gif">
+<img src="atri.gif" height="300">
 
 
 
