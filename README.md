@@ -17,6 +17,7 @@
   <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="32px"></a>
   <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="32px"></a>
   <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" height="32px"></a>
+  <a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php" alt="PHP" height="32px"></a>
 </div>
 
 <h2>Tools i've used 🛠️</h2>
