@@ -6,7 +6,7 @@
 <p>My name is <b>Dewa Yoga</b>, You can call me Dewa or Yoga. Im from Bali, Indonesia.</p>
 
 <p>Currently studying in Information Technology at Faculty of Engineering Udayana University.</p>
-<p>I code things for my own sake because it's fun. Beside coding i'd often playing games like CS2, Valorant, R6 Siege, etc. (That's why my nickname has "Gamer" in it).</p>
+<p>I code things 'cause it's fun. Beside coding i'd often playing games like CS2, Valorant, R6 Siege, etc. (That's why my nickname has "Gamer" in it).</p>
 
 <h2>Languages I've learned ✒️</h2>
 <div>
