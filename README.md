@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://dewa.yoga/logo.svg" alt=">.YG" height="128px">
+</p>
 <h1 align="center">Greeting 👋</h1>
 
 <p align="center">You should be interested in me baacause you opened my profile, don't you? So I'll introduce myself.</p>
